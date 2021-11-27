@@ -3,7 +3,7 @@
 
 title: "学者与投资"
 subtitle: ""
-summary: "消除误会的二人"
+summary: ""
 authors: [admin]
 tags: [philosophy]
 categories: []
@@ -53,7 +53,7 @@ projects: []
 
  等到了助理教授AP阶段，学者相比自己博士期有了一个明显的变化与优势：可以带学生了。博士期间有什么想法都要自己亲手操作，时间是有限的。有了学生后可以指导学生去尝试，人手多了，可以尝试的方向就多了，成功的概率必然增加。但在这个阶段，学者自己也免不了要在一线搬砖。
 
- ![phd](C:\GitHub\Venus\content\zh\post\scholarandinvest\phd.jpg)
+ ![phd](https://github.com/LuciusCF/Venus/blob/5b824cb9c44bda8635fa547cb887064c1a4891c0/content/zh/post/scholarandinvest/phd.jpg)
 
  如果成功拿到tenure，那学者就算上岸了，可以持续地招更多学生，并且不断增加合作者。从这个阶段开始，学者的工作重心就会慢慢转变为“学术团队管理者”。学者会减少一线搬砖的时间，这种事可以丢给学生做，以后更重要的任务应该是：拉来资源，建立本门派的学术圈地位。这种工作重心的转变，无论对学者自己，还是对学生而言，都是最优解。只要学者经费不断增加，地位不断提高，学生也能得到更多资源，成为名门高徒。
 
@@ -87,7 +87,7 @@ projects: []
 
  说到这里，就要提一下小虎队成员Bill Hwang，这个老哥在2021年爆仓搞出了大新闻，几天内亏了几百亿美元，被称为史上亏钱最快的男人。
 
- ![bill](C:\GitHub\Venus\content\zh\post\scholarandinvest\bill.jpg)
+ ![bill](https://github.com/LuciusCF/Venus/blob/5b824cb9c44bda8635fa547cb887064c1a4891c0/content/zh/post/scholarandinvest/bill.jpg)
 
 然而，Bill Hwang曾经是个非常成功的投资人，2001年从Robertson那里获得2500万美元初始投资，后来一度做到了150亿美元的规模。这个老哥有极高的投资天赋和惊人的努力，然而在2021年巨亏，不是他不行，而是因为时运不济，以及华尔街投行（点名高盛和大摩）的背刺。本文不谈论Bill的这些细节。
 
