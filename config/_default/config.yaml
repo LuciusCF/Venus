@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Caelum Venus # Website name
-baseurl: '' # Website URL
+baseurl: 'https://venus.caelumfamily.com/' # Website URL
 copyright: '© Caelum Venus {year}' # Footer text, e.g. '© {year} Me'
 
 ############################
