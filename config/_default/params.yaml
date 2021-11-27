@@ -20,13 +20,13 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-appointment_url: 'https://calendly.com'
-contact_links:
-  - icon: comments
-    icon_pack: fas
-    name: Discuss on the forum
-    link: 'https://github.com/wowchemy/wowchemy-hugo-modules/discussions'
+#email: test@example.org
+#appointment_url: 'https://calendly.com'
+#contact_links:
+ # - icon: comments
+ #   icon_pack: fas
+ #   name: Discuss on the forum
+ #   link: 'https://github.com/wowchemy/wowchemy-hugo-modules/discussions'
 
 # Site header
 
@@ -41,8 +41,8 @@ main_menu:
 
 # Localization
 
-date_format: 'Jan 2, 2006'
-time_format: '3:04 PM'
+date_format: 'Monday, Jan. 2, 2006'
+time_format: '15:04'
 address_format: en-us
 
 # Site features
