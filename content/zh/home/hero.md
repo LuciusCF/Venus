@@ -1,8 +1,8 @@
 ---
 widget: hero
 headless: true
-weight: 10
-title: Online Course Template
+weight: 20
+title: 天金资本
 hero_media: student.svg
 design:
   background:
