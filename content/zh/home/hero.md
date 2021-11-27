@@ -4,8 +4,6 @@ headless: true
 weight: 10
 title: 天金资本
 hero_media: HK.jpg
-#advanced:
- # css_class: fullscreen
 
 design:
   background:
