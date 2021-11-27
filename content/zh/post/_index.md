@@ -1,5 +1,5 @@
 ---
-title: Latest News
+title: 全部文章
 
 # View.
 #   1 = List
