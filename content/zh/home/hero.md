@@ -4,12 +4,15 @@ headless: true
 weight: 10
 title: 天金资本
 hero_media: HK.jpg
-design:
-  background:
-    gradient_angle: 0
-    gradient_start: 'rgb(224,223,255)'
-    gradient_end: 'rgb(153,238,255)'
-    text_color_light: false
+advanced:
+  css_class: fullscreen
+
+#design:
+ # background:
+  #  gradient_angle: 0
+  #  gradient_start: 'rgb(224,223,255)'
+  #  gradient_end: 'rgb(153,238,255)'
+ #   text_color_light: false
 #cta:
 #  url: course/
 #  label: Explore our courses
@@ -20,8 +23,8 @@ design:
 #  label:
 #cta_note:
 #  label:
-advanced:
-  css_class: fullscreen
+#advanced:
+#  css_class: fullscreen
 ---
 全球宏观对冲策略研究
 
