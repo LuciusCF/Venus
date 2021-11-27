@@ -5,7 +5,7 @@
 
 title: Caelum Venus # Website name
 baseurl: '' # Website URL
-copyright: '© {year} Caelum Venus' # Footer text, e.g. '© {year} Me'
+copyright: '© Caelum Venus {year}' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
