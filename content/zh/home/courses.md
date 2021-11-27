@@ -2,19 +2,19 @@
 widget: portfolio
 headless: true
 weight: 30
-title: Explore top courses
+#title: Explore top courses
 subtitle:
 content:
   page_type: book
   filter_default: 0
 
   filter_button:
-    - name: All Courses
-      tag: '*'
-    - name: Data Visualization
-      tag: Data Visualization
-    - name: Statistics
-      tag: Statistics
+    - name: 哲学
+      tag: philosophy
+    - name: 政经
+      tag: politicaleco
+    - name: 策略
+      tag: strategy
 design:
   columns: '1'
   view: 3
