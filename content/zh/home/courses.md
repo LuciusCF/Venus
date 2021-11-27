@@ -5,7 +5,7 @@ weight: 30
 #title: Explore top courses
 subtitle:
 content:
-  page_type: book
+  page_type: post
   filter_default: 0
 
   filter_button:
