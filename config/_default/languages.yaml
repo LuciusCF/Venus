@@ -12,9 +12,9 @@ en:
 zh:
   languageCode: zh
   contentDir: content/zh
-  title: 天金资本
+  title: 天金资管
   params:
-    description: Site description in Chinese...
+    description: 天金资产管理有限公司
   menu:
     main:
       - name: 传
