@@ -5,7 +5,7 @@ name = "Custom Theme"
 light = false
 
 # Primary
-primary = "#000000"
+primary = "#ffd700"
 
 # Menu
 menu_primary = "#f7d1cc"
