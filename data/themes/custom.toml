@@ -14,5 +14,5 @@ menu_text_active = "#000000"
 menu_title = "#000000"
 
 # Home sections
-home_section_odd = "#f7d1cc"
-home_section_even = "#f7d1cc"
+home_section_odd = "#ffffff"
+home_section_even = "#ffffff"
