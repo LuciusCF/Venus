@@ -7,7 +7,6 @@ title: 关于
 
 # This should be the username of a profile in your `content/authors/` folder.
 
-author: 'CVAM'
 # ... Put Your Section Options Here (title etc.) ...
 
 天金资管XXX
