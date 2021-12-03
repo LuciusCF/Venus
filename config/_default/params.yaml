@@ -106,7 +106,7 @@ search:
     index_name: ''
     show_logo: false
 marketing:
-  google_analytics: ''
+  google_analytics: 'GTM-TJLWXZN'
   google_tag_manager: ''
   google_site_verification: ''
   baidu_site_verification: ''
