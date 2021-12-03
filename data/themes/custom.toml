@@ -5,13 +5,13 @@ name = "Custom Theme"
 light = false
 
 # Primary
-primary = "#f7d1cc"
+primary = "#000000"
 
 # Menu
-menu_primary = "#312450"
-menu_text = "#f7d1cc"
-menu_text_active = "#FFE1A0"
-menu_title = "#f7d1cc"
+menu_primary = "#f7d1cc"
+menu_text = "#000000"
+menu_text_active = "#f7d1cc"
+menu_title = "#000000"
 
 # Home sections
 home_section_odd = "#5e42a6"
