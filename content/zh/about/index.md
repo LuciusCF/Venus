@@ -1,31 +1,17 @@
 ---
-# An instance of the Blank widget.
-# Documentation: https://wowchemy.com/docs/getting-started/page-builder/
-widget: blank
-
-# Activate this widget? true/false
-active: true
-
-# This file represents a page section.
-headless: true
-
-# Order that this section appears on the page.
-weight: 15
-
 title: 关于
-subtitle:
+summary: 
+date: "2021-06-28T00:00:00Z"
 
-design:
-  columns: "1"
-  background:
-    image: HK.jpg
-    image_darken: 1.0
-    image_parallax: true
-    image_position: center
-    image_size: cover
-    text_color_light: false
-  spacing:
-    padding: ["20px", "0", "20px", "0"]
+reading_time: false  # Show estimated reading time?
+share: false  # Show social sharing links?
+profile: false  # Show author profile?
+comments: false  # Show comments?
+
+# Optional header image (relative to `assets/media/` folder).
+header:
+  caption: ""
+  image: ""
 ---
 
 Welcome to the demo of the **academic resumé template** for Wowchemy, the Website Builder for Hugo.
