@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 10
 
-title: 联系
+title: 
 subtitle:
 
 content:
@@ -29,4 +29,4 @@ design:
   columns: '1'
 ---
 
-请联系XXX
+请联系CaelumVenus@gmail.com
