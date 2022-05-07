@@ -10,7 +10,7 @@ categories: []
 date: 2021-11-27T15:31:30+08:00
 lastmod: 2021-11-27T15:31:30+08:00
 featured: true
-draft: false
+draft: true
 weight: 1
 
 # Featured image
