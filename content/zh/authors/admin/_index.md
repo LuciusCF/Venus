@@ -16,9 +16,9 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
-interests:
-- 物理
-- 投资
+#interests:
+#- 物理
+#- 投资
 
 
 #education:
